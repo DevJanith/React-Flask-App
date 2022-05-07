@@ -48,7 +48,7 @@
 
 > Flask Documentation (Flask is a micro web framework written in Python) : https://flask.palletsprojects.com/en/2.1.x/
 
-## Other Helping Documentations
+## Other Resource Documentations
 
 > Build A React + Flask App with a react-vis to create a line chart for data visualization
 > https://aknay.github.io/2021/01/06/build-a-react-flask-app-with-react-vis-chart-for-data-visualization.html#google_vignette
