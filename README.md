@@ -4,9 +4,9 @@
 
 ```javascript
 
- source\react-flask-app> npm i
+> source\react-flask-app> npm i
 
- source\react-flask-app> npm start
+> source\react-flask-app> npm start
 
 ```
 
@@ -14,9 +14,9 @@
 
 ```python
 
- source\react-flask-app\api> python -m venv backend
+> source\react-flask-app\api> python -m venv backend
 
- source\react-flask-app\api> backend\Scripts\activate
+> source\react-flask-app\api> backend\Scripts\activate
 
 ```
 
@@ -24,11 +24,11 @@
 
 ```python
 
- (backend)source\react-flask-app\api> pip install -r requirements.txt
+> (backend)source\react-flask-app\api> pip install -r requirements.txt
 
- (backend)source\react-flask-app\api> set flask_app=app
+> (backend)source\react-flask-app\api> set flask_app=app
 
- (backend)source\react-flask-app\api> flask run
+> (backend)source\react-flask-app\api> flask run
 
 ```
 
