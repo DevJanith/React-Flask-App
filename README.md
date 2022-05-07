@@ -40,7 +40,8 @@ Flask Documentation (Flask is a micro web framework written in Python) : https:/
 > General Usage Tutorials
 > https://www.twilio.com/docs/usage/tutorials/
 
-> How to set up your Python and Flask development environmenthow-to-set-up-your-python-and-flask-development-environment#install-flask-and-the-twilio-python-sdk
+> How to set up your Python and Flask development  
+> environmenthow-to-set-up-your-python-and-flask-development-environment#install-flask-and-the-twilio-python-sdk
 
 > sample jupiter lab model
 > https://jupyter.org/try-jupyter/lab/
