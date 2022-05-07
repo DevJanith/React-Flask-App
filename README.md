@@ -32,15 +32,15 @@ Flask Documentation (Flask is a micro web framework written in Python) : https:/
 ## Other Helping Documentations
 
 > Build A React + Flask App with a react-vis to create a line chart for data visualization
-https://aknay.github.io/2021/01/06/build-a-react-flask-app-with-react-vis-chart-for-data-visualization.html#google_vignette
+> https://aknay.github.io/2021/01/06/build-a-react-flask-app-with-react-vis-chart-for-data-visualization.html#google_vignette
 
 > How To Create a React + Flask Project
-https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
+> https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
 
 > General Usage Tutorials
-https://www.twilio.com/docs/usage/tutorials/
+> https://www.twilio.com/docs/usage/tutorials/
 
 > How to set up your Python and Flask development environmenthow-to-set-up-your-python-and-flask-development-environment#install-flask-and-the-twilio-python-sdk
 
 > sample jupiter lab model
-https://jupyter.org/try-jupyter/lab/
+> https://jupyter.org/try-jupyter/lab/
