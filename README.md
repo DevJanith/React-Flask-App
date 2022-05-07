@@ -2,23 +2,35 @@
 
 ## How to start Frontend (React.js)
 
+```javascript
+
 > source\react-flask-app> npm i
 
 > source\react-flask-app> npm start
 
+```
+
 ## How to start Backend (Python+flask)
+
+```python
 
 > source\react-flask-app\api> python -m venv backend
 
 > source\react-flask-app\api> backend\Scripts\activate
 
+```
+
 ###### to download the requirements
+
+```python
 
 > (backend)source\react-flask-app\api> pip install -r requirements.txt
 
 > (backend)source\react-flask-app\api> set flask_app=app
 
 > (backend)source\react-flask-app\api> flask run
+
+```
 
 ## Resources
 
