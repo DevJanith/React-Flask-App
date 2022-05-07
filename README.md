@@ -3,11 +3,13 @@
 ## How to start Frontend (React.js)
 
 > source\react-flask-app> npm i
+
 > source\react-flask-app> npm start
 
 ## How to start Backend (Python+flask)
 
 > source\react-flask-app\api> python -m venv backend
+
 > source\react-flask-app\api> backend\Scripts\activate
 
 ###### to download the requirements
@@ -15,6 +17,7 @@
 > (backend)source\react-flask-app\api> pip install -r requirements.txt
 
 > (backend)source\react-flask-app\api> set flask_app=app
+
 > (backend)source\react-flask-app\api> flask run
 
 ## Resources
@@ -22,7 +25,9 @@
 ###### Frontend Resources
 
 > React Documentation (the open-source front-end JavaScript library for building) : https://reactjs.org
+
 > MUI Documentation (the React UI library) : https://mui.com
+
 > react-vis Documentation (Data visualization library based on React) : https://www.npmjs.com/package/react-vis
 
 ###### Backend Resources
