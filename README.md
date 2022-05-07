@@ -1,4 +1,4 @@
-<!-- # React-Flask Application
+# React-Flask Application
 
 ## How to start Frontend (React.js)
 
@@ -61,4 +61,4 @@
 > environmenthow-to-set-up-your-python-and-flask-development-environment#install-flask-and-the-twilio-python-sdk
 
 > sample jupiter lab model
-> https://jupyter.org/try-jupyter/lab/ -->
+> https://jupyter.org/try-jupyter/lab/
