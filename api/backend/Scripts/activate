@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Kanishka Ranathunga\Desktop\RND\sample_frontend_backend_reactjs_flask_python_V3\react-flask-app\api\backend"
+VIRTUAL_ENV="C:\Users\Kanishka Ranathunga\Desktop\RND\python-project\React-Flask-App\api\backend"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

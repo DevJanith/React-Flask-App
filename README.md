@@ -1,5 +1,7 @@
 # React-Flask Application
 
+###### Sample Data Visualization Project. Frontend-React JS | Backend framework-Flask | Backend language-Python To Start the project ** you must start backend and frontend ** without starting any one of them the project won't start
+
 ## How to start Frontend (React.js)
 
 ```javascript
